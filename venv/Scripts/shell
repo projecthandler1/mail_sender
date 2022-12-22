@@ -1,0 +1,2 @@
+#!C:\E-commerce\mail\sendmail\python_mail_sender\venv\Scripts\python.exe
+from Mypackage import Myshell
